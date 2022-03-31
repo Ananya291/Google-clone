@@ -1,0 +1,42 @@
+.navMain{
+   
+}
+
+.navBody{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navGmail{
+    margin: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.60);
+}
+
+.navGmail:hover{
+    text-decoration: underline;
+}
+
+.navImage{
+    margin: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.60);
+    text-decoration: none;
+}
+
+.navImage:hover{
+    text-decoration: underline;
+}
+
+.icon{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    cursor: pointer;
+    color: gray;
+
+}
