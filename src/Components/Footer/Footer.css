@@ -1,0 +1,45 @@
+.footerMain{
+    display: block;
+    margin-top: 16%;
+}
+
+.footerCountry{
+    background-color: rgb(240, 240, 240);
+}
+
+.footerCountryIndia{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+
+.footerAbout{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color:  rgb(240, 240, 240);
+    padding: 0 20px;
+}
+
+.footerAboutLeft{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footerAboutRight{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: block;
+    white-space: nowrap;
+    padding: 15px;
+    color: #70757a;
+    font-size: 14px;
+}
+
+
