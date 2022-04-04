@@ -1,0 +1,10 @@
+.main{
+ background-color: white;
+ text-align: center;
+}
+
+.mainImage{
+    object-fit: contain;
+    margin-top: 20px;  
+}
+

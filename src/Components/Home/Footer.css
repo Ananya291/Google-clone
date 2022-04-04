@@ -10,7 +10,8 @@
 .footerCountryIndia{
     padding: 15px 30px;
     border-bottom: 1px solid #dadce0;
-    font-size: 15px;
+    font-size: 14px;
+    font-weight: 300;
     color: #70757a;
 }
 
@@ -40,6 +41,11 @@
     padding: 15px;
     color: #70757a;
     font-size: 14px;
+    text-decoration: none;
+}
+
+.footer:hover{
+    text-decoration: underline;
 }
 
 
